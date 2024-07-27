@@ -1,4 +1,4 @@
--- trying to add solara support(idk how this doesnt work its js tb solara blows)
+-- trying to add solara support(idk how this doesnt work its js tb solara blows will fix this. or rewrite the whole source :) )
 
 local configs = {
     main = {
